@@ -6,7 +6,7 @@ public class Avaliacao4Exercicio10 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.printf("Digite um número inteiro qualquer: ");
+		System.out.printf("Digite um nÃºmero inteiro qualquer: ");
 		int x = sc.nextInt();
 		
 		int y=0;
