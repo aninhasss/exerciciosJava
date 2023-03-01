@@ -14,7 +14,7 @@ public class Avaliacao4Exercicio15 {
 			i++;
 		
 		}while(C>J);
-		System.out.printf("Após " + i + " anos");
+		System.out.printf("ApÃ³s " + i + " anos");
 		
 		
 }
