@@ -6,7 +6,7 @@ public class Avaliacao4Exercicio5 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.printf("Digite o valor do sal·rio mÌnimo atualmente: ");
+		System.out.printf("Digite o valor do sal√°rio m√≠nimo atualmente: ");
 		float s = sc.nextFloat();
 		System.out.printf("Quantidade de quilowatts gasta: ");
 		float q = sc.nextFloat();
