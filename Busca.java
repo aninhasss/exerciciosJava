@@ -15,12 +15,12 @@ public class Avaliacao4Exercicio17 {
 		for(i=0; i<=4; i++) {
 		System.out.printf("Nome: ");
 		n[i] = sc.nextLine();
-		System.out.printf("Endereço: ");
+		System.out.printf("EndereÃ§o: ");
 		d[i] = sc.nextLine();
 		System.out.printf("Telefone: ");
 		t[i]= sc.nextLine();}
 		
-		System.out.printf("\nNome de quem você deseja procurar: ");
+		System.out.printf("\nNome de quem vocÃª deseja procurar: ");
 		busca = sc.nextLine();
 		busca = busca.toLowerCase();
 		
@@ -30,9 +30,9 @@ public class Avaliacao4Exercicio17 {
 			limit = i;
 			break;}}
 		
-		System.out.println("\nO nome é: " +  n[limit]);
-		System.out.println("O endereço é: " +  d[limit]);
-		System.out.println("O telefone é: " +  t[limit]);
+		System.out.println("\nO nome Ã©: " +  n[limit]);
+		System.out.println("O endereÃ§o Ã©: " +  d[limit]);
+		System.out.println("O telefone Ã©: " +  t[limit]);
 		
 		sc.close();
 		
